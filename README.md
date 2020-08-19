@@ -8,4 +8,5 @@
 [![SizheWei's github stats](https://github-readme-stats.vercel.app/api?username=SizheWei&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Last 7 days, I worked on 👇
+
 <img src="https://wakatime.com/share/@sizhewei/c3fa9ac3-b262-4060-86ee-b33265e3903a.png" width="50%" style="vertical-align: middle;" />
