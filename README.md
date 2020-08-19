@@ -9,7 +9,5 @@
 
 Last 7 days, I worked on 👇
 
-<center class="half">
-<img src="https://wakatime.com/share/@sizhewei/c3fa9ac3-b262-4060-86ee-b33265e3903a.png" width="45%"/>
-<img src="https://wakatime.com/share/@sizhewei/a1b5d866-f952-4889-b3dd-142eb7eb77c2.png" width="45%"/>
-</center>
+| ![](https://wakatime.com/share/@sizhewei/c3fa9ac3-b262-4060-86ee-b33265e3903a.png) | ![](https://wakatime.com/share/@sizhewei/a1b5d866-f952-4889-b3dd-142eb7eb77c2.png) |
+|:----:|-----:|
