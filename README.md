@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Sizhe Wei (魏思哲 in Chinese)
+### Hi there 👋 I'm Sizhe(Harry) Wei (魏思哲 in Chinese)
 
 - 💪 I'm a final-year undergrad student major in Information Engineering, Depts. EE at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/)
 - 🔭 I’m currently working on Computer Vision and Machine Learning
