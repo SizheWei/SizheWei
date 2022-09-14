@@ -9,5 +9,5 @@
 
 Last 7 days, I worked on 👇
 
-| ![](https://wakatime.com/share/@sizhewei/c3fa9ac3-b262-4060-86ee-b33265e3903a.png) | ![](https://wakatime.com/share/@sizhewei/a1b5d866-f952-4889-b3dd-142eb7eb77c2.png) |
+| ![](https://wakatime.com/share/@sizhewei/d3ffcf74-c100-4f6a-8fff-50f8a281e5d6.svg) | ![](https://wakatime.com/share/@sizhewei/a1b5d866-f952-4889-b3dd-142eb7eb77c2.png) |
 |:----:|-----:|
