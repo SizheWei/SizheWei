@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Sizhe Wei (魏思哲 in Chinese)
+### Hi there 👋 I'm Sizhe Wei
 
 - 💪 I'm an M.Eng. student major in EE at [Shanghai Jiao Tong University](http://sjtu.edu.cn/)
 - 🔭 I’m currently working on Collaborative Perception in autonomous driving.
