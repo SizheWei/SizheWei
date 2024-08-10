@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm Sizhe Wei
 
-- 💪 I'm an M.Eng. student major in EE at [Shanghai Jiao Tong University](http://sjtu.edu.cn/)
+<!--  - 💪 I'm an M.Eng. student major in EE at [Shanghai Jiao Tong University](http://sjtu.edu.cn/)
 - 🔭 I’m currently working on Collaborative Perception in autonomous driving.
 - 📫 Feel free to contact me if you're interested in my work: <sizhewei@sjtu.edu.cn>
-- 👀 Know more about me at: [sizhewei.github.io](https://sizhewei.github.io)
+- 👀 Know more about me at: [sizhewei.github.io](https://sizhewei.github.io) -->
 
 <!--  [![SizheWei's github stats](https://github-readme-stats.vercel.app/api?username=SizheWei&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
